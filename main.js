@@ -22,7 +22,7 @@ window.jQuery.ajax = function({url,method,body,headers}){
 
 myButton.addEventListener('click',(e)=>{
     window.jQuery.ajax({
-        url: "https://basiracheng.github.io/nodejs-text",
+        url: "https://github.com/BasiraCheng/nodejs-text",
         method: "get",
         headers: {
             'Content-Type': 'application/x-www-form-urlencoded',
